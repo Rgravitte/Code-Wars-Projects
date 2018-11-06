@@ -24,4 +24,4 @@ function anagramCounter(arrayOfWords){
 }
 
 
-anagramCounter(words)
+anagramCounter(words);
